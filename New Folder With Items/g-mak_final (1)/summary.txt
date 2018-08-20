@@ -1,0 +1,5 @@
+RightFluencer is a web application and dashboard that allows you to find the right social media influencer for your product and category by analyzing their posts, images and videos. The dashboard analyzes the social media profiles of many influencers and finds the best influencer for your product based on not just their metrics but based on their niche/expertise. 
+
+RightFluencer provides a search engine where a brand marketer can enter a product and category to find right influencer for that product by analyzing their Instagram, Facebook, Twitter and YouTube profiles. The marketers can then get more detailed information about the influencer and visualize the metrics and insights related to the influencer.
+
+RightFluencer also allows influencers to gain deeper insights about their online presence and understand their strongholds and weaknesses.

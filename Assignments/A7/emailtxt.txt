@@ -1,0 +1,12 @@
+Hi Nick,
+
+Thank you so much for the great work you have done with the anomaly detection algorithm. I have gone through your work and am very much impressed with the effort and the quality of your delivery. While going through the codebase I had an idea and wanted to discuss it with you and see what do you think about it. So right now we have written an anomaly detection algorithm - but we are only using it with one pair of (k,t) values i.e. they are set to k =8 & t =0.97. How about other values? Can we achieve a better result just by using a different set of combination around these parameters? Have these thoughts crossed your mind?  
+
+So maybe we can do a couple of things here,
+a) We need to test this algorithm with different pairs of k and t (Hyperparameter tuning)
+
+b) We need to cross-examine the results of such different combinations of (k,t) and figure out if that improves (helps us to pinpoint) our finding. Maybe one way of measuring this algorithm is to test it against last year DDOS attack that we had on our servers. Since now that we know for sure when and where the attack happened, we can use that to our advantage and finetune our model.  The trick here is to compare results after each round of tuning and check if that improves the score or not and then manually adjust and re-run the process again until we get satisfactory results.
+
+What do you think? Do you like this idea or have any other opinions? Let me know.
+
+- Arin

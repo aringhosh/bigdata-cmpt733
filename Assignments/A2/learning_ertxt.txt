@@ -1,0 +1,11 @@
+1. How to construct a training dataset?
+
+ - The training data should be as close to truth as possible and that is what actually we are trying to solve. So we need to construct some lebelling to start with. Some manual labor/crowdsourcing may be a preferred way to do this. Otherwise, if there is any historical data available (like someone has already tried to solve this), we can try that as well.
+
+2. How to transform a pair of records into a feature vector?
+
+- a pair of record can be converted into a feature vector using feature from a standard library functions, like edit distance, jaccard measure etc.
+
+3. How to evaluate your model?
+
+- Fmeasure, Precision, Recall.
